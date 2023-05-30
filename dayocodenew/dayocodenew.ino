@@ -38,7 +38,7 @@ String phone_no1 = "+2349159774476"; //phone number to sms
 String RxString =""; //will hod the incoming string from the GSM shield
 char          RxChar    = ' ';
 int           Counter   = 0;
-String        GSM_Nr    = "";
+String        GSM_Nr    = "+2349159774476";
 String        GSM_Msg   = "";
 
 
